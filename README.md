@@ -5,4 +5,4 @@ iPhone アプリ「今日のクラシック」のプライバシーポリシー�
 - サポート：https://ngwso.github.io/today-classic-privacy-policy/support.html
 - プライバシーポリシー：https://ngwso.github.io/today-classic-privacy-policy/privacy.html
 
-お問い合わせは [Issues](https://github.com/ngwso/today-classic-privacy-policy/issues) からどうぞ。Issues の内容は公開されるため、個人情報は書き込まないでください。
+お問い合わせは[サポートページ](https://ngwso.github.io/today-classic-privacy-policy/support.html)のフォームからどうぞ。
